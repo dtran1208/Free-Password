@@ -2,8 +2,8 @@
  
  ## Description
 - This application generates a random, secure password.
-![alt text](./screen%20shot/javascript%20.png)
-![alt text](./screen%20shot/password-website.png)
+![alt text](./assets/javascript%20.png)
+![alt text](./assets/password-website.png)
 
 ## Usage
 - To use this application:
