@@ -6,8 +6,8 @@
 ![alt text](./assets/password-website.png)
 
 ## Usage
+## [Click here to go to my website](https://dtran1208.github.io/Free-Password-Creator/)
 - To use this application:
-
 1. Click the "Generate Password" button.
 2. When prompted, choose the desired length of your password (between 8 and 128 characters).
 3. When prompted, select the character types to include in the password (lowercase, uppercase, numeric, and/or special characters).
